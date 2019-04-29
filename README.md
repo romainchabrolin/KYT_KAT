@@ -2,7 +2,7 @@
 Projet RPA pour le module KYT_KAT d'Epitech
 
 
-- Installer python: "sudo apt install python3.6"
+- Installer python: "sudo apt-get install python3.6"
 
 - Installer pip: "sudo apt-get install python-pip"
 
